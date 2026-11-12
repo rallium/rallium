@@ -1,7 +1,9 @@
 # rallium
 
-Agentic AI orchestration platform. Build, run, and coordinate fleets of AI agents on one control plane.
+Copyright (c) 2026 Jeet Parekh. All rights reserved.
 
-Built on [keel](https://github.com/jeetparekh3005/keel).
+This repository is proprietary and confidential. It is **not** open source.
+No part of this software may be used, copied, modified, or distributed without
+the express prior written permission of the owner.
 
-Status: early, name and brand in progress.
+See [LICENSE](LICENSE) for terms. Licensing inquiries: jeetparekh3005@gmail.com
