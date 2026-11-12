@@ -1,34 +1,34 @@
-Rallium Proprietary License
+Rallium License (Source-Available, All Rights Reserved)
 
 Copyright (c) 2026 Jeet Parekh. All rights reserved.
 
-This software and all associated source code, files, and documentation
-(the "Software") are the proprietary and confidential property of
-Jeet Parekh (the "Licensor").
+This source code and all associated files and documentation (the "Software")
+are made publicly viewable for reference only. Public availability does NOT make
+the Software open source and does NOT grant any license to use it.
 
-1. No Grant of Rights. No license, right, or permission of any kind is granted
-   to any person or entity to use, run, access, copy, reproduce, modify, adapt,
-   translate, merge, publish, distribute, sublicense, sell, display, perform,
-   or create derivative works of the Software, in whole or in part, by any
-   means, except pursuant to a separate written agreement signed by the
-   Licensor that expressly grants such rights.
+1. No Grant of Rights. No license, right, or permission of any kind is granted to
+   any person or entity to use, run, deploy, copy, reproduce, modify, adapt,
+   translate, merge, publish, distribute, sublicense, sell, display, perform, or
+   create derivative works of the Software, in whole or in part, by any means,
+   except pursuant to a separate written agreement signed by the Licensor
+   (Jeet Parekh) that expressly grants such rights.
 
-2. Confidentiality. The Software is confidential. Any access provided to the
-   Software does not transfer any ownership or usage rights and does not permit
-   disclosure to third parties.
+2. Permitted Viewing Only. Viewing the Software through the hosting platform, and
+   any forking inherent to that platform's normal operation, do not grant any
+   right to use, run, or distribute the Software outside the platform.
 
-3. Prohibition. Any use, reproduction, distribution, or disclosure of the
-   Software, or any portion of it, without the Licensor's express prior written
-   permission is strictly prohibited and may result in civil and criminal
-   liability.
+3. Prohibition. Any use, reproduction, distribution, or creation of derivative
+   works of the Software, or any portion of it, without the Licensor's express
+   prior written permission is strictly prohibited and may result in civil and
+   criminal liability.
 
 4. No Warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
 5. Limitation of Liability. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY
-   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT,
-   OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
-   USE OR OTHER DEALINGS IN THE SOFTWARE.
+   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
 
 To request a license, contact: jeetparekh3005@gmail.com
