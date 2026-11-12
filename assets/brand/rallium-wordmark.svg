@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" width="560" height="150" role="img" aria-label="rallium">
+  <g transform="translate(20 27) scale(0.96)" fill="none" stroke="#14213A" stroke-width="5.5" stroke-linecap="round">
+    <line x1="94" y1="50" x2="68" y2="50"/>
+    <line x1="72" y1="88.1" x2="59" y2="65.6"/>
+    <line x1="28" y1="88.1" x2="41" y2="65.6"/>
+    <line x1="6" y1="50" x2="32" y2="50"/>
+    <line x1="28" y1="11.9" x2="41" y2="34.4"/>
+    <line x1="72" y1="11.9" x2="59" y2="34.4"/>
+  </g>
+  <circle cx="68.4" cy="75" r="8.16" fill="#FF6A3D"/>
+  <text x="150" y="99" font-family="'SF Pro Display','Avenir Next',Inter,'Helvetica Neue',Arial,sans-serif" font-size="92" font-weight="800" letter-spacing="-3" fill="#14213A">rall<tspan fill="#FF6A3D">i</tspan>um</text>
+</svg>
